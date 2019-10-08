@@ -5,7 +5,7 @@ a=0
 b=0
 c=0
 d=0
-marksList ==[]    #use list to add marks in list
+marksList =[]    #use list to add marks in list
 while  True:   #use while loop to run the code till condition is right
     class=int(input("Enter your marks :"))
     if marks<0:
